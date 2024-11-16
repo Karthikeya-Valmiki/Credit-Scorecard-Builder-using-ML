@@ -26,7 +26,7 @@ The project uses the **"uci-credit-card-data"** dataset, which contains anonymiz
 
 ## **Repository Contents**
 - **`Main notebook/`**: Contains the Jupyter Notebook(s) with detailed implementation of all project steps.
-- **`data/`**: Directory for the "uci-credit-card-data" dataset (or a placeholder link to download it).
+- **`csv file`**: Directory for the "uci-credit-card-data" dataset.
 - **`README.md`**: This readme file, explaining the project structure and details.
 - **`LICENSE`**: License file
 
