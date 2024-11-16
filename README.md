@@ -38,4 +38,5 @@ The project uses the **"uci-credit-card-data"** dataset, which contains anonymiz
    git clone https://github.com/Karthikeya-Valmiki/Credit-Scorecard-Builder-using-ML.git
 
 
-## Created by - Karthikeya Valmiki
+## Author
+- Karthikeya Valmiki
